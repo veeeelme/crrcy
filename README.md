@@ -37,8 +37,8 @@ crrcy
 ## Directory Hierarchy
 ```
 |—— .gitignore
-|—— README.md
 |—— LICENSE
+|—— README.md
 |—— main.py
 ```
 
