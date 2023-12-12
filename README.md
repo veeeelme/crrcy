@@ -2,7 +2,7 @@ crrcy
 ===
 ## Papar Information
 - Title:  `crrcy`
-- Authors:  `Dzmitry Pahasrsky`
+- Authors:  `Dzmitry Paharsky`
 - Description: `crrcy is fast and minimalistic way to convert over 150 currencies in your terminal with just few words`
 
 ## Install & Dependence
